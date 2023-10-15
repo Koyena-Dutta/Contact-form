@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+}
+
+.header{
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding: 5px 20px 15px 20px;
+    background-image: url(https://png.pngtree.com/background/20210711/original/pngtree-blue-background-with-geometric-forms-picture-image_1146994.jpg);
+    color: white;
+    border-radius: 10px;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial, sans-serif';
+    margin:15px 30px;
+    font-size: 17px;
+    padding: 200px;
+}
+.content{
+    background-color: rgb(210, 215, 220);
+    padding: 5px 20px 15px 20px;
+    border: #fff;
+    border-radius: 10px;
+}
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+textarea{
+    width: 80%;
+    padding: 10px;
+}
+input[type="submit"]{
+    background-color: chartreuse;
+    border-color: chartreuse;
+    color: #fff;
+}
+input[type="submit"]{
+    background-color: chartreuse;
+    border-color: chartreuse;
+    color: #fff;
+    border-radius: 20px;
+    width: 150px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
